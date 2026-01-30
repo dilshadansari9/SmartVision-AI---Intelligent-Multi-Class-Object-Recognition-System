@@ -1,0 +1,7 @@
+smartvision_dataset/
+__pycache__/
+*.h5
+*.keras
+*.pt
+*.pth
+.ipynb_checkpoints/
